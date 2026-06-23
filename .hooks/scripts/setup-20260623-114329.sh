@@ -14,13 +14,13 @@ cd "$ROOT"
 
 git config --local include.path ../.gitconfig
 
-chmod +x .hooks/* .hooks/scripts/*.sh .hooks/scripts/lib/*.sh 2>/dev/null
+chmod +x .hooks/* .hooks/scripts/*.sh 2>/dev/null
 
 
 
 # Optional: set origin from repo.spine.json (remote.prefer or remote.origin_url)
 
-[[ -f repo.spine.json ]] && command -v jq &>/dev/null && .hooks/scripts/set-remote.sh || true
+[[ -f repo.spine.json ]] && command -v jq &>/dev/null && .hooks/scripts/set-remote.sh 2>/dev/null || true
 
 
 
