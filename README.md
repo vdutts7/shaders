@@ -107,6 +107,12 @@ ___
 
 ___
 
+## Tools Used
+
+<img src="https://img.shields.io/badge/GLSL-5586A2?style=for-the-badge&logo=opengl&logoColor=white" alt="GLSL"/>
+
+<br/>
+
 ## Contact
 
 <a href="https://vd7.io"><img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1773910810/readme-badges/readme-badge-vd7.png" alt="vd7.io" height="40" /></a> &nbsp; <a href="https://x.com/vdutts7"><img src="https://res.cloudinary.com/ddyc1es5v/image/upload/v1773910817/readme-badges/readme-badge-x.png" alt="/vdutts7" height="40" /></a>
